@@ -2,8 +2,10 @@
 
 ## **DESCRIPTION:**
 
--- This application will show the user exactly how much change to give to a customer.  
+-- This application will show the user exactly how much change to give to a customer.
+
   It will also show how many bills and coins to use to make up that amount of change.
+  
   Always use US Dollar currency in the application.
 
 ## **INSTRUCTIONS:**
@@ -16,9 +18,9 @@
    below each category of currency.
 
 ## **EXTRAS:**
--- Instead of showing only how dollars were in the change this 
-Change Calculator will show the user how many of each
-bill should be given to the customer.
+-- Instead of showing only how dollars were in the change this Change Calculator 
+
+will show the user how many of each bill should be given to the customer.
 
 ## **DEPENDANCIES:**
 
