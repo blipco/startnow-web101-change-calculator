@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" type="text/css" href="styles.css">
+    <meta charset="utf-8">
+    <title>Change Calculator</title>
+  </head>
+  <body>
+    <h1>Change Calculator</h1>
+        <div class="input">
+            <form id="form-input">
+                Amount Due:
+                <input id="amount-due" type="text">
+                Amount Received:
+                <input id="amount-received" type="text">
+            </form>
+            <button id="calculate-change">Calculate Change</button>
+        </div>
+        <div class="bills">
+          <header id="bills-header">Bills</header>
+            <form id="form-bills">
+              $20<br>
+              <p id="twenty-output"></p><br>
+              $10<br>
+              <p id="ten-output"></p><br>
+              $5<br>
+              <p id="five-output"></p><br>
+              $1<br>
+              <p id="one-output"></p><br>
+            </form>
+        </div>
+        <div class="coins">
+          <header id="coins-header">Coins</header>
+          <form id="form-coins">
+              Quarters <br>
+              <p id="quarters-output"></p><br>
+              Dimes<br>
+              <p id="dimes-output"></p><br>
+              Nickels<br>
+              <p id="nickels-output"></p><br>
+              Pennies<br>
+              <p id="pennies-output"></p><br>
+          </form>
+        </div>
+        <div>
+          <p id= "dollars-output"></p>
+        </div>
+   <script src="main.js" charset="utf-8"></script>
+ </body>
+</html>
