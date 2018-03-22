@@ -1,11 +1,11 @@
 # CHANGE CALCULATOR
 
-## DESCRIPTION
+### **DESCRIPTION**
 
 --This application will show the user exactly how much change in US dollars to give to a customer.  
->It will also show how many bills and coins in US dollars to use to make up that amount of change.
+It will also show how many bills and coins in US dollars to use to make up that amount of change.
 
-## INSTRUCTIONS
+### **INSTRUCTIONS**
 
 1. Enter how a product costs in the "Amount Received" box.
 2. Enter how much money the customer is giving the user 
@@ -14,12 +14,12 @@
 4. Give the customer the amount of bills and coins listed 
   >below each category of currency.
 
-## EXTRAS
+### **EXTRAS**
 Instead of showing only how dollars were in the change this 
 >Change Calculator will show the user how many of each 
 >dollar bill should be given to the customer
 
-## DEPENDANCIES
+### **DEPENDANCIES**
 
 1. axios
 2. chai
@@ -28,6 +28,6 @@ Instead of showing only how dollars were in the change this
 5. nightmare
 6. node-static
 
-## STYLING
+### **STYLING**
 
 -- All styling can be found on the styles.css sheet.
