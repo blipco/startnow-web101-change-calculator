@@ -11,11 +11,9 @@
 ## **INSTRUCTIONS:**
 
 1. Enter how much a product costs in the "Amount Received" box.
-2. Enter how much currency the customer is giving the user 
-   in order to purchase the product.
+2. Enter how much currency the customer is giving the user in order to purchase the product.
 3. Click the "Calculate Change" button.
-4. Give the customer the amount of bills and coins listed 
-   below each category of currency.
+4. Give the customer the amount of bills and coins listed below each category of currency.
 
 ## **EXTRAS:**
 -- Instead of showing only how dollars were in the change this Change Calculator 
