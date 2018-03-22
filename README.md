@@ -3,7 +3,7 @@
 ### **DESCRIPTION**
 
 -- This application will show the user exactly how much change in US dollars to give to a customer.  
-It will also show how many bills and coins in US dollars to use to make up that amount of change.
+   It will also show how many bills and coins in US dollars to use to make up that amount of change.
 
 ### **INSTRUCTIONS**
 
